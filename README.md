@@ -18,4 +18,3 @@ Marking attendance in realtime by recognizing faces using Firebse ML Kit
 ### Tell us about you.
 
 I’m Amey Bansod with 5+ years experience in Android Application Development, Website Development & Digital Marketing combined. I co-founded a startup: ABP Systems & Solutions in my Second Year Engineering (2015), where we developed websites & apps for Small Business Owners in India. I also run a Technology Blog: TechnoClever.com which makes people clever in Tech & I really like to sing Indian Classical Music & write Poets. I’m the guy who gets things done! No matter what ;)
-s
