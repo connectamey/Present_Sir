@@ -1,4 +1,4 @@
-## About Project
+## About Present Sir Project
 Present Sir can mark the attendance of students by recognizing the faces.
 App is using Microsoft Cognitive AI hence you'll need Microsoft Azure Subscription Key.
 
